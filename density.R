@@ -3,6 +3,8 @@ Sys.setenv(JAVA_HOME="C:/Program Files/Java/jdk-11.0.2/") #(JAVA_HOME PROBLEM)
 library(rJava)
 library(sf)
 library(OpenStreetMap) 
+library(tmap)
+library(tmaptools)
 
 # Overpass query:
 # /*
