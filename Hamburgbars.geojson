@@ -1,0 +1,4554 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-02-12T22:18:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/262390793",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1153859,
+          53.5712359
+        ]
+      },
+      "id": "node/262390793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/290636389",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "20357",
+        "addr:street": "Bartelsstraße",
+        "amenity": "bar",
+        "email": "kontakt@goldfischglas.de",
+        "name": "Goldfischglas",
+        "opening_hours": "14:00+",
+        "operator": "GoldfischGlas GmbH",
+        "toilets:wheelchair": "no",
+        "website": "http://goldfischglas.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9643633,
+          53.5625379
+        ]
+      },
+      "id": "node/290636389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298579402",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "55 a",
+        "addr:postcode": "22339",
+        "addr:street": "Hummelsbüttler Hauptstraße",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0373367,
+          53.6415049
+        ]
+      },
+      "id": "node/298579402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300904873",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "95",
+        "addr:postcode": "20253",
+        "addr:street": "Bismarckstraße",
+        "amenity": "bar",
+        "cuisine": "mexican",
+        "description": "Tapas, Salate, Pasta, Pizza, Toast, Sopas",
+        "email": "corrado@baradona.de",
+        "name": "Baradona",
+        "opening_hours": "Su-Fr 18:00+; Sa 20:00+",
+        "operator": "Corrado De Ponte",
+        "phone": "+49 (40) 42 10 20 50",
+        "smoking": "no",
+        "website": "http://baradona.com/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9694954,
+          53.5763167
+        ]
+      },
+      "id": "node/300904873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/351138166",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "81",
+        "addr:postcode": "22763",
+        "addr:street": "Große Brunnenstraße",
+        "amenity": "bar",
+        "name": "Nostalgia Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.923955,
+          53.5527507
+        ]
+      },
+      "id": "node/351138166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364138847",
+        "addr:housenumber": "29",
+        "addr:street": "Kohlhöfen",
+        "amenity": "bar",
+        "name": "Oorlam",
+        "opening_hours": "We-Fr 16:00-22:00; Sa,Su 12:00-22:00",
+        "phone": "+49 176 34367697",
+        "website": "http://www.oorlam.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9798395,
+          53.5534186
+        ]
+      },
+      "id": "node/364138847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366994064",
+        "amenity": "bar",
+        "name": "Musti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8614674,
+          53.5980635
+        ]
+      },
+      "id": "node/366994064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409020318",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "6",
+        "addr:postcode": "20146",
+        "addr:street": "Bundesstraße",
+        "amenity": "bar",
+        "cuisine": "vegetarian",
+        "diet:vegetarian": "only",
+        "int_name": "Zum Tanzenden Einhorn",
+        "name": "Zum Tanzenden Einhorn",
+        "website": "http://www.zum-tanzenden-einhorn.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.983485,
+          53.564251
+        ]
+      },
+      "id": "node/409020318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437355075",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "102",
+        "addr:postcode": "20359",
+        "addr:street": "Reeperbahn",
+        "amenity": "bar",
+        "name": "Albers Bar",
+        "website": "http://www.albers-bar.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9608715,
+          53.5497242
+        ]
+      },
+      "id": "node/437355075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/490185871",
+        "amenity": "bar",
+        "name": "Erste Liebe Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9848943,
+          53.5492265
+        ]
+      },
+      "id": "node/490185871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/498737922",
+        "addr:housenumber": "6",
+        "addr:street": "Fischmarkt",
+        "amenity": "bar",
+        "description": "in Nicht-Sonnemonaten: 18:00+",
+        "name": "Cabana",
+        "opening_hours": "Tu,We 18:00-03:00, Th 14:00-03:00, Fr,Sa 14:00-04:00, Su 14:00-24:00",
+        "operator": "Uwe Christiansen",
+        "smoking": "yes",
+        "website": "http://www.bar-cabana.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9525942,
+          53.5459707
+        ]
+      },
+      "id": "node/498737922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/501590852",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "22087",
+        "addr:street": "Schürbeker Straße",
+        "amenity": "bar",
+        "contact:email": "kontakt@cocktrail.de",
+        "contact:fax": "+49 (0)40 22692056",
+        "contact:phone": "+49 (0)40 22692055",
+        "contact:website": "http://www.cocktrail.de/",
+        "layer": "0",
+        "name": "Cocktrail Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0275389,
+          53.5694668
+        ]
+      },
+      "id": "node/501590852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/535194978",
+        "amenity": "bar",
+        "name": "Brazil Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9808718,
+          53.4634766
+        ]
+      },
+      "id": "node/535194978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/537516635",
+        "addr:city": "Hamburg",
+        "amenity": "bar",
+        "name": "Bellini Bar",
+        "smoking": "dedicated",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.012043,
+          53.5575214
+        ]
+      },
+      "id": "node/537516635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/586217084",
+        "amenity": "bar",
+        "name": "Downtown Bluesclub",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0153583,
+          53.5939934
+        ]
+      },
+      "id": "node/586217084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/592581944",
+        "amenity": "bar",
+        "name": "El Ray",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0164008,
+          53.5942724
+        ]
+      },
+      "id": "node/592581944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603248363",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "22085",
+        "addr:street": "Kanalstraße",
+        "amenity": "bar",
+        "name": "Caipi Colada",
+        "website": "http://www.caipi-colada.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0161224,
+          53.5727173
+        ]
+      },
+      "id": "node/603248363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677298673",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "20146",
+        "addr:street": "Hallerplatz",
+        "amenity": "bar",
+        "name": "Windschirm",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9860083,
+          53.5715458
+        ]
+      },
+      "id": "node/677298673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/761660789",
+        "amenity": "bar",
+        "name": "Koops Bar",
+        "smoking": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9895118,
+          53.5932486
+        ]
+      },
+      "id": "node/761660789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768505770",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "66",
+        "addr:postcode": "20357",
+        "addr:street": "Amandastraße",
+        "amenity": "bar",
+        "name": "Amanda 66",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9606469,
+          53.5651747
+        ]
+      },
+      "id": "node/768505770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/778255350",
+        "amenity": "bar",
+        "name": "Astra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9464713,
+          53.5697351
+        ]
+      },
+      "id": "node/778255350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/798560370",
+        "amenity": "bar",
+        "name": "Haithabu",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1689496,
+          53.6278904
+        ]
+      },
+      "id": "node/798560370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/817651042",
+        "amenity": "bar",
+        "name": "Dingsda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.091964,
+          53.6181749
+        ]
+      },
+      "id": "node/817651042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/844588934",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "13",
+        "addr:postcode": "20359",
+        "addr:street": "Taubenstraße",
+        "amenity": "bar",
+        "contact:phone": "+49 40 3175078",
+        "name": "The Chug Club",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9650197,
+          53.5482126
+        ]
+      },
+      "id": "node/844588934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/938442575",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "22",
+        "addr:postcode": "22111",
+        "addr:street": "Schiffbeker Weg",
+        "amenity": "bar",
+        "cuisine": "german",
+        "name": "Club Europa",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1025218,
+          53.5418412
+        ]
+      },
+      "id": "node/938442575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/957178948",
+        "addr:housenumber": "46",
+        "addr:street": "Krausestraße",
+        "amenity": "bar",
+        "name": "Homeland",
+        "opening_hours": "Mo-Fr 16:00-02:00,Fr-Sa 16:00-03:00",
+        "website": "https://www.homeland.bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0551839,
+          53.5826371
+        ]
+      },
+      "id": "node/957178948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/957281724",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "33",
+        "addr:postcode": "22301",
+        "addr:street": "Dorotheenstraße",
+        "amenity": "bar",
+        "name": "Bar du Nord",
+        "opening_hours": "Oct-Mar: Mo-Th 19:00-03:00, Oct-Mar: Fr,Sa 19:00-05:00, Apr-Sep: Mo-Th 20:00-03:00, Apr-Sep: Fr,Sa 20:00-05:00",
+        "phone": "+49 40 27806225",
+        "website": "http://www.bardunord.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0093063,
+          53.581193
+        ]
+      },
+      "id": "node/957281724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/984999460",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9888964,
+          53.5168428
+        ]
+      },
+      "id": "node/984999460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006265",
+        "amenity": "bar",
+        "name": "Blauer Peter",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9610691,
+          53.5512483
+        ]
+      },
+      "id": "node/1004006265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006269",
+        "amenity": "bar",
+        "name": "Frieda B.",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9609387,
+          53.5483459
+        ]
+      },
+      "id": "node/1004006269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006273",
+        "amenity": "bar",
+        "name": "Roschinsky's",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9610703,
+          53.5511629
+        ]
+      },
+      "id": "node/1004006273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006275",
+        "amenity": "bar",
+        "name": "20 Flight Rock",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9603363,
+          53.5481948
+        ]
+      },
+      "id": "node/1004006275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006276",
+        "amenity": "bar",
+        "name": "Cobra Bar St. Pauli",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9602079,
+          53.548165
+        ]
+      },
+      "id": "node/1004006276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006284",
+        "amenity": "bar",
+        "name": "Ex-Sparr",
+        "opening_hours": "Mo-Th 20:00-04:00; Fr-Sa 20:00-09:00; Su 20:00-04:00",
+        "phone": "+49 40 34993511",
+        "website": "http://www.ex-sparr.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9614797,
+          53.5502774
+        ]
+      },
+      "id": "node/1004006284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1004006286",
+        "amenity": "bar",
+        "name": "Lunacy",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9614479,
+          53.5507956
+        ]
+      },
+      "id": "node/1004006286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022509474",
+        "amenity": "bar",
+        "name": "Komet",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9620028,
+          53.5475386
+        ]
+      },
+      "id": "node/1022509474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1077515423",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "142",
+        "addr:postcode": "22765",
+        "addr:street": "Bahrenfelder Straße",
+        "amenity": "bar",
+        "name": "red lounge",
+        "phone": "+494030774006",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9293056,
+          53.5533976
+        ]
+      },
+      "id": "node/1077515423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1088043269",
+        "addr:housenumber": "2",
+        "addr:street": "Wohlwillstraße",
+        "amenity": "bar",
+        "name": "Drei Freunde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961079,
+          53.55276
+        ]
+      },
+      "id": "node/1088043269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1184555741",
+        "addr:housenumber": "17",
+        "addr:postcode": "20359",
+        "addr:street": "Neuer Pferdemarkt",
+        "amenity": "bar",
+        "description": "viele alte Sofas",
+        "name": "Zoe II",
+        "opening_hours": "Su-Th 12:00-02:00, Fr,Sa 12:00-04:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9645758,
+          53.5587774
+        ]
+      },
+      "id": "node/1184555741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1269081661",
+        "addr:country": "DE",
+        "amenity": "bar",
+        "email": "service@lolabarhamburg.de",
+        "name": "Lola Bar",
+        "opening_hours": "Su-Th 16:00+; Fr,Sa 17:00+",
+        "phone": "+49 40 7249663",
+        "website": "http://www.lolabarhamburg.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2057546,
+          53.4954241
+        ]
+      },
+      "id": "node/1269081661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1411403282",
+        "amenity": "bar",
+        "contact:email": "info@wunderbar-hamburg.de",
+        "contact:facebook": "https://www.facebook.com/wunderbar.hamburg",
+        "contact:instagram": "https://www.instagram.com/wunderbarhamburg/",
+        "contact:twitter": "http://www.revenge.co.uk/home/bar-revenge/",
+        "contact:website": "http://www.wunderbar-hamburg.de",
+        "contact:youtuve": "https://www.youtube.com/user/wunderbarhamburg",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "WunderBar",
+        "opening_hours": "Mo-Su 22:00+",
+        "operator": "WunderBar GbR",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9603232,
+          53.5503892
+        ]
+      },
+      "id": "node/1411403282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426112777",
+        "amenity": "bar",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8873719,
+          53.5591064
+        ]
+      },
+      "id": "node/1426112777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1432609512",
+        "addr:housenumber": "329",
+        "addr:postcode": "22177",
+        "addr:street": "Bramfelder Chaussee",
+        "amenity": "bar",
+        "name": "F1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0798193,
+          53.6188731
+        ]
+      },
+      "id": "node/1432609512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1475044480",
+        "addr:housenumber": "11",
+        "addr:postcode": "22179",
+        "addr:street": "Bramfelder Dorfplatz",
+        "amenity": "bar",
+        "contact:phone": "+49 40 6424040",
+        "name": "Break-Point Billard",
+        "opening_hours": "Mo-Th 16:00-01:00, Fr 16:00-04:00, Sa 12:00-04:00, Su 12:00-01:00",
+        "website": "http://www.breakpoint-hamburg.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0788032,
+          53.6142925
+        ]
+      },
+      "id": "node/1475044480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1484580909",
+        "amenity": "bar",
+        "name": "The Goose Club",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9876694,
+          53.5554464
+        ]
+      },
+      "id": "node/1484580909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1486361657",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "176",
+        "addr:postcode": "22299",
+        "addr:street": "Dorotheenstraße",
+        "amenity": "bar",
+        "bar": "wine_bar",
+        "description": "Weinbar",
+        "name": "Dorotheum",
+        "source": "survey",
+        "website": "http://www.weinbar-hamburg.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0025925,
+          53.5909938
+        ]
+      },
+      "id": "node/1486361657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1503302191",
+        "amenity": "bar",
+        "name": "Rye & Dry",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611663,
+          53.5719588
+        ]
+      },
+      "id": "node/1503302191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1505478483",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "20251",
+        "addr:street": "Straßenbahnring",
+        "amenity": "bar",
+        "name": "Marsbar GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9776256,
+          53.5818007
+        ]
+      },
+      "id": "node/1505478483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1512878194",
+        "amenity": "bar",
+        "name": "Queen Calavera",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9610227,
+          53.5478914
+        ]
+      },
+      "id": "node/1512878194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539916918",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "20359",
+        "addr:street": "Millerntorplatz",
+        "amenity": "bar",
+        "atm": "yes",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "Zwick",
+        "opening_hours": "Mo-Fr 11:30+, Sa,Su 12:00+",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "survey; Bing",
+        "toilets:wheelchair": "no",
+        "url": "http://www.zwick4u.com/kontakt_anfahrt_de_692.html",
+        "wheelchair": "yes",
+        "wheelchair:description": "Die Bar ist zwar grundsätzlich rollstuhlgeeignet, die Einrichtung besteht aber fast ausschließlich aus Stehtischen und hohen Barhockern."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.969368,
+          53.550623
+        ]
+      },
+      "id": "node/1539916918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1562385911",
+        "amenity": "bar",
+        "name": "Thier",
+        "outdoor_seating": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611318,
+          53.563013
+        ]
+      },
+      "id": "node/1562385911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615477045",
+        "amenity": "bar",
+        "name": "Toms Saloon",
+        "opening_hours": "Mo-Su 22:00-24:00+",
+        "url": "http://www.toms-hamburg.de",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0148111,
+          53.5534941
+        ]
+      },
+      "id": "node/1615477045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1640543955",
+        "amenity": "bar",
+        "name": "Kai 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0183801,
+          53.5458684
+        ]
+      },
+      "id": "node/1640543955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1665251473",
+        "amenity": "bar",
+        "name": "Bumerang",
+        "opening_hours": "Mo-Sa 15:00+; Su 11:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9989442,
+          53.4443394
+        ]
+      },
+      "id": "node/1665251473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1725859357",
+        "amenity": "bar",
+        "name": "Olympia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9844343,
+          53.4558348
+        ]
+      },
+      "id": "node/1725859357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1742837198",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "275",
+        "addr:postcode": "22769",
+        "addr:street": "Max-Brauer-Allee",
+        "amenity": "bar",
+        "name": "Good Old Days",
+        "name:old": "Bar Nouar",
+        "opening_hours": "Tu-We 20:00-02:00, Th 20:00-03:00, Fr-Sa 20:00-05:00",
+        "phone": "+49 170 9391913",
+        "smoking": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.good-old-days.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9592948,
+          53.5635864
+        ]
+      },
+      "id": "node/1742837198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752589579",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "20459",
+        "addr:street": "Ditmar-Koel-Straße",
+        "amenity": "bar",
+        "description": "Reisebüro mit Bar, Cafe und Cocktails",
+        "name": "Cruise Lounge Hamburg",
+        "phone": "49-40-609465660",
+        "shop": "travel_agency",
+        "website": "http://www.cruiseloungehamburg.de",
+        "wheelchair": "yes",
+        "wheelchair:description": "Die Einrichtung ist barrierefrei und hat ein Behindertengerechtes WC."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.974007,
+          53.5455464
+        ]
+      },
+      "id": "node/1752589579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1775997376",
+        "amenity": "bar",
+        "name": "Old Sailor",
+        "wheelchair": "no",
+        "wheelchair:description": "Nur eine Stufe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9625268,
+          53.5498413
+        ]
+      },
+      "id": "node/1775997376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1823160463",
+        "amenity": "bar",
+        "description": "Shisha Café, Cocktail Bar",
+        "lastcheck": "2012-07-12",
+        "name": "Zahara Shisha",
+        "opening_hours": "Mo-Th 12:00-02:00, Fr,Sa 12:00+, Su 14:00-02:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.071089,
+          53.573178
+        ]
+      },
+      "id": "node/1823160463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1862001245",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:street": "Moorflagen",
+        "addr:suburb": "Niendorf",
+        "amenity": "bar",
+        "name": "Bar Horizont Niendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9468394,
+          53.6403802
+        ]
+      },
+      "id": "node/1862001245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1869437941",
+        "addr:housenumber": "2",
+        "addr:street": "Am Brunnenhof",
+        "amenity": "bar",
+        "name": "Luba Luft",
+        "toilets:wheelchair": "no",
+        "website": "http://www.lubaluft.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9580457,
+          53.5534209
+        ]
+      },
+      "id": "node/1869437941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1887413582",
+        "amenity": "bar",
+        "name": "Quer Club",
+        "website": "www.quer-club.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9606348,
+          53.5489153
+        ]
+      },
+      "id": "node/1887413582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1909893880",
+        "amenity": "bar",
+        "name": "Le Lion",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9945708,
+          53.5501691
+        ]
+      },
+      "id": "node/1909893880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912668192",
+        "amenity": "bar",
+        "name": "Meyer Lansky's",
+        "opening_hours": "Mo-Fr 16:00-03:00, Sa 16:00-05:00, Su,PH 18:00-03:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.987288,
+          53.5554579
+        ]
+      },
+      "id": "node/1912668192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1936747566",
+        "amenity": "bar",
+        "name": "Bricks",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9878676,
+          53.5524087
+        ]
+      },
+      "id": "node/1936747566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1953442959",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "86",
+        "addr:postcode": "20357",
+        "addr:street": "Schulterblatt",
+        "amenity": "bar",
+        "name": "Daniela Bar",
+        "opening_hours": "May-Sep: 18:00+; Oct-Apr: 21:00+",
+        "website": "www.daniela-bar.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "kleien Rampe am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.961774,
+          53.5624979
+        ]
+      },
+      "id": "node/1953442959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1967097430",
+        "amenity": "bar",
+        "name": "Heimfelder Bar",
+        "old_name": "Café Leben",
+        "opening_hours": "Mo-Th 13:00-04:00, Fr 13:00-06:00, Sa 12:00-06:00, Su 12:00-04:00",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9601524,
+          53.4646134
+        ]
+      },
+      "id": "node/1967097430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1967098794",
+        "amenity": "bar",
+        "fixme": "Wie lautet der Name der Bar?",
+        "level": "0",
+        "name": "Köpi Heimfeld / Blaue Nacht",
+        "name:de": "bei Angelo",
+        "name:en": "bei Angelo",
+        "phone": "+49 40 70970898"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9531583,
+          53.4632453
+        ]
+      },
+      "id": "node/1967098794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2024826097",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9957211,
+          53.5308625
+        ]
+      },
+      "id": "node/2024826097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051207933",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "22767",
+        "addr:street": "Paul-Roosen-Straße",
+        "amenity": "bar",
+        "name": "Roosen Bar",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957865,
+          53.5532621
+        ]
+      },
+      "id": "node/2051207933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051218876",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "144",
+        "addr:postcode": "22767",
+        "addr:street": "Bernstorffstraße",
+        "amenity": "bar",
+        "name": "Sünde Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9591856,
+          53.5585878
+        ]
+      },
+      "id": "node/2051218876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070225228",
+        "amenity": "bar",
+        "name": "Superspeed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9634972,
+          53.5562922
+        ]
+      },
+      "id": "node/2070225228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070259277",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "4",
+        "addr:postcode": "22767",
+        "addr:street": "Otzenstraße",
+        "amenity": "bar",
+        "contact:email": "otzentreff@web.de",
+        "contact:phone": "+4915110226184",
+        "contact:website": "https://www.facebook.com/Otzentreff-122658841124331/",
+        "email": "otzentreff@web.de",
+        "level": "0",
+        "name": "Otzentreff",
+        "operator": "Christian Böse",
+        "phone": "+4915110226184",
+        "smoking": "yes",
+        "website": "https://www.facebook.com/Otzentreff-122658841124331",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9618955,
+          53.5552094
+        ]
+      },
+      "id": "node/2070259277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070310984",
+        "amenity": "bar",
+        "name": "Shebeen",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9634297,
+          53.5538423
+        ]
+      },
+      "id": "node/2070310984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070334067",
+        "amenity": "bar",
+        "name": "Brachmanns Galeron",
+        "opening_hours": "Mo-Sa 18:00-22:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9630491,
+          53.5528352
+        ]
+      },
+      "id": "node/2070334067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2071556383",
+        "addr:housenumber": "14-15",
+        "addr:postcode": "20095",
+        "addr:street": "Ballindamm",
+        "amenity": "bar",
+        "name": "Ciu' Die Bar",
+        "website": "http://www.ciudiebar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9989018,
+          53.5541984
+        ]
+      },
+      "id": "node/2071556383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151596399",
+        "amenity": "bar",
+        "name": "Bambus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9813598,
+          53.5514138
+        ]
+      },
+      "id": "node/2151596399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2218638257",
+        "amenity": "bar",
+        "name": "November",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2120102,
+          53.4870555
+        ]
+      },
+      "id": "node/2218638257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2218638269",
+        "amenity": "bar",
+        "name": "Bla Bla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.218307,
+          53.4848901
+        ]
+      },
+      "id": "node/2218638269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2262102697",
+        "amenity": "bar",
+        "name": "Bar Jasou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9505221,
+          53.5699402
+        ]
+      },
+      "id": "node/2262102697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2265800359",
+        "amenity": "bar",
+        "name": "Bar Sabrina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9557691,
+          53.5670837
+        ]
+      },
+      "id": "node/2265800359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2304921253",
+        "amenity": "bar",
+        "name": "H2O",
+        "operator": "Scandic Emporio",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9823198,
+          53.5561313
+        ]
+      },
+      "id": "node/2304921253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321859551",
+        "addr:housenumber": "1",
+        "addr:postcode": "20359",
+        "addr:street": "Beim Grünen Jäger",
+        "amenity": "bar",
+        "name": "Ban Canteen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.962768,
+          53.556551
+        ]
+      },
+      "id": "node/2321859551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322117002",
+        "addr:housenumber": "10",
+        "addr:postcode": "22767",
+        "addr:street": "Steinheimplatz",
+        "amenity": "bar",
+        "name": "La Notte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9521282,
+          53.5557074
+        ]
+      },
+      "id": "node/2322117002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329586860",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "85",
+        "addr:postcode": "22111",
+        "addr:street": "Washingtonallee",
+        "amenity": "bar",
+        "name": "85-Lounge",
+        "opening_hours": "Mo-Th 16:00-24:00, Fr-Sa 16:00-02:00, Su 17:00-24:00",
+        "website": "http://www.85-lounge.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0934048,
+          53.546515
+        ]
+      },
+      "id": "node/2329586860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368202021",
+        "amenity": "bar",
+        "layer": "1",
+        "name": "St. Pauli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0032244,
+          53.628536
+        ]
+      },
+      "id": "node/2368202021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2410714109",
+        "amenity": "bar",
+        "cuisine": "wine",
+        "name": "Weinbar Collio",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0125186,
+          53.5580619
+        ]
+      },
+      "id": "node/2410714109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2442305537",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "153",
+        "addr:postcode": "22041",
+        "addr:street": "Wandsbeker Marktstraße",
+        "amenity": "bar",
+        "name": "Massari Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0712123,
+          53.5736062
+        ]
+      },
+      "id": "node/2442305537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2457025699",
+        "addr:housenumber": "6",
+        "addr:postcode": "20457",
+        "addr:street": "Osakaallee",
+        "amenity": "bar",
+        "name": "Club 20457",
+        "opening_hours": "Mo-Fr 18:00-02:00; Sa 20:00-02:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9982349,
+          53.5430217
+        ]
+      },
+      "id": "node/2457025699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2488926768",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "34",
+        "addr:postcode": "20359",
+        "addr:street": "Hopfenstraße",
+        "amenity": "bar",
+        "name": "Menschenzoo Punkrockkneipe",
+        "phone": "040/39906413",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9634128,
+          53.5481339
+        ]
+      },
+      "id": "node/2488926768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495419425",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "88",
+        "addr:postcode": "20357",
+        "addr:street": "Schulterblatt",
+        "amenity": "bar",
+        "name": "Katze",
+        "opening_hours": "Mo-Th 15:00-24:00, Fr 18:00-03:00, Sa 13:00-03:00, Su 15:00-24:00",
+        "outdoor_seating": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9616887,
+          53.5625634
+        ]
+      },
+      "id": "node/2495419425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2501610379",
+        "addr:housenumber": "9",
+        "addr:street": "Fischmarkt",
+        "amenity": "bar",
+        "description": "Location einem Piratenschiff nachempfunden; Frühstück, Café und Getränke",
+        "email": "info@pyrates-hamburg.com",
+        "name": "Pyrates",
+        "opening_hours": "Th-Fr 20:00-02:00, Sa 20:00-04:00, Su 07:00-13:00",
+        "operator": "Pyrates Betreiber UG",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "phone": "+49 40 18148517",
+        "website": "http://www.pyrates-hamburg.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9519188,
+          53.5455821
+        ]
+      },
+      "id": "node/2501610379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2518063795",
+        "amenity": "bar",
+        "name": "Austerbar",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9593226,
+          53.5727464
+        ]
+      },
+      "id": "node/2518063795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2546824098",
+        "addr:housenumber": "163",
+        "addr:street": "Stresemannstraße",
+        "amenity": "bar",
+        "name": "Quatsch Comedy Club",
+        "website": "http://www.quatsch-comedy-club.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9497263,
+          53.5627155
+        ]
+      },
+      "id": "node/2546824098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558979893",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "20357",
+        "addr:street": "Sternstraße",
+        "amenity": "bar",
+        "name": "Dschungel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9674855,
+          53.5585786
+        ]
+      },
+      "id": "node/2558979893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2571620325",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "20357",
+        "addr:street": "Susannenstraße",
+        "amenity": "bar",
+        "cuisine": "international",
+        "description": "nicht zu laut sprechen",
+        "name": "Diwan",
+        "phone": "+49 40 23518281",
+        "toilets:wheelchair": "no",
+        "url": "http://www.yelp.de/biz/cafe-diwan-hamburg",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9641942,
+          53.5627207
+        ]
+      },
+      "id": "node/2571620325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2573532791",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "96",
+        "addr:postcode": "20359",
+        "addr:street": "Clemens-Schultz-Straße",
+        "amenity": "bar",
+        "name": "Möwe Sturzflug",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9648819,
+          53.5523376
+        ]
+      },
+      "id": "node/2573532791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2590306809",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "123",
+        "addr:postcode": "22117",
+        "addr:street": "Möllner Landstraße",
+        "amenity": "bar",
+        "name": "Treffpunkt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1221927,
+          53.5387375
+        ]
+      },
+      "id": "node/2590306809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2599320173",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "107",
+        "addr:postcode": "20148",
+        "addr:street": "Rothenbaumchaussee",
+        "amenity": "bar",
+        "name": "CavaRo Weinbar",
+        "source": "survey",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9882298,
+          53.5714837
+        ]
+      },
+      "id": "node/2599320173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622684453",
+        "addr:housenumber": "99",
+        "addr:street": "Schanzenstraße",
+        "amenity": "bar",
+        "name": "Absinth",
+        "opening_hours": "Tu-Sa 20:00+",
+        "phone": "+49 176 2362 1956",
+        "website": "http://www.absinth-bar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9652092,
+          53.5638832
+        ]
+      },
+      "id": "node/2622684453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2626890506",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "128",
+        "addr:postcode": "22047",
+        "addr:street": "Friedrich-Ebert-Damm",
+        "amenity": "bar",
+        "name": "Bolero",
+        "opening_hours": "Mo-Fr 11:30+; Sa 15:00+; Su 14:00+",
+        "phone": "+49 40 69691202",
+        "website": "http://wandsbek.bolerobar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0970395,
+          53.5882336
+        ]
+      },
+      "id": "node/2626890506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2660991563",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "22303",
+        "addr:street": "Gertigstraße",
+        "amenity": "bar",
+        "name": "Berglund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0136338,
+          53.5814939
+        ]
+      },
+      "id": "node/2660991563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674896620",
+        "amenity": "bar",
+        "name": "Hypnotized",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.980365,
+          53.4602959
+        ]
+      },
+      "id": "node/2674896620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2749654388",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "75",
+        "addr:postcode": "22609",
+        "addr:street": "Baron-Voght-Straße",
+        "amenity": "bar",
+        "name": "Redroom",
+        "opening_hours": "We-Sa 18:00+",
+        "phone": "+49 40 82244604",
+        "website": "http://www.redroom-bar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8649825,
+          53.555934
+        ]
+      },
+      "id": "node/2749654388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2894793540",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "15",
+        "addr:postcode": "20359",
+        "addr:street": "Hans-Albers-Platz",
+        "amenity": "bar",
+        "name": "Drafthouse",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9614373,
+          53.5488866
+        ]
+      },
+      "id": "node/2894793540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2964077943",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "20144",
+        "addr:street": "Oberstraße",
+        "amenity": "bar",
+        "name": "Wein Viertel",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9778888,
+          53.5777828
+        ]
+      },
+      "id": "node/2964077943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3011771833",
+        "amenity": "bar",
+        "name": "Kiez Alm Hamburg",
+        "opening_hours": "Th,Fr,Sa 22:00-06:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.957165,
+          53.551108
+        ]
+      },
+      "id": "node/3011771833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034379335",
+        "amenity": "bar",
+        "name": "Gugu",
+        "opening_hours": "Mo-Th 16:00-00:00;Fr-Sa 16:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9955347,
+          53.5498877
+        ]
+      },
+      "id": "node/3034379335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3141379529",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "11",
+        "addr:postcode": "20359",
+        "addr:street": "Hamburger Berg",
+        "amenity": "bar",
+        "name": "Barbarabar",
+        "smoking": "separated",
+        "website": "http://www.barbarabar.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611339,
+          53.5506565
+        ]
+      },
+      "id": "node/3141379529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3169294200",
+        "amenity": "bar",
+        "name": "Momo Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9893599,
+          53.555533
+        ]
+      },
+      "id": "node/3169294200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3255892127",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "89",
+        "addr:postcode": "20359",
+        "addr:street": "Simon-von-Utrecht-Straße",
+        "alt_name": "Koralle",
+        "amenity": "bar",
+        "name": "KorallBar",
+        "opening_hours": "Tu-Su 20:00+",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9620902,
+          53.5511305
+        ]
+      },
+      "id": "node/3255892127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3267789736",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "4",
+        "addr:postcode": "22765",
+        "addr:street": "Rainvilleterrasse",
+        "amenity": "bar",
+        "name": "Rainville Elbterassen",
+        "opening_hours": "11:30 - 17:00, 18:00 - 22:30",
+        "phone": "+49 40 43216020",
+        "website": "http://www.rainville-restaurant.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9309547,
+          53.5458496
+        ]
+      },
+      "id": "node/3267789736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3271049096",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "9",
+        "addr:postcode": "20255",
+        "addr:street": "Stellinger Weg",
+        "amenity": "bar",
+        "name": "Mr. Ape"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9513015,
+          53.5776403
+        ]
+      },
+      "id": "node/3271049096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280992081",
+        "addr:housename": "EMPIRE RIVERSIDE HOTEL",
+        "amenity": "bar",
+        "level": "0",
+        "name": "DAVID'S",
+        "website": "http://www.empire-riverside.de/de/hotel-restaurant-bars-hamburg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9631083,
+          53.5471488
+        ]
+      },
+      "id": "node/3280992081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3280992083",
+        "addr:housename": "EMPIRE RIVERSIDE HOTEL",
+        "addr:housenumber": "97",
+        "addr:street": "Bernhard-Nocht-Straße",
+        "amenity": "bar",
+        "description": "Dresscode: elegant, nicht sportlich",
+        "level": "20",
+        "name": "20up",
+        "opening_hours": "Mo-Th,Su 18:00-02:00; Fr-Sa 18:00-03:00",
+        "toilets": "yes",
+        "website": "http://www.empire-riverside.de/de/hotel-restaurant-bars-hamburg/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9633526,
+          53.5472091
+        ]
+      },
+      "id": "node/3280992083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3281180289",
+        "amenity": "bar",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Novo2",
+        "opening_hours": "10:00-01:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0250454,
+          53.558903
+        ]
+      },
+      "id": "node/3281180289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3389802016",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "13",
+        "addr:postcode": "22083",
+        "addr:street": "Hamburger Straße",
+        "amenity": "bar",
+        "name": "Freundlich + Kompetent",
+        "smoking": "no",
+        "website": "http://www.freundlichundkompetent.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0283061,
+          53.5711793
+        ]
+      },
+      "id": "node/3389802016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3396311415",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "6",
+        "addr:postcode": "20357",
+        "addr:street": "Sternschanze",
+        "amenity": "bar",
+        "name": "Cave Bar",
+        "operator": "Mövenpick",
+        "phone": "+49 40 334411 0",
+        "website": "http://www.moevenpick-hotels.com/de/europe/germany/hamburg/hotel-hamburg/restaurants/restaurants/cave-bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9705488,
+          53.5646391
+        ]
+      },
+      "id": "node/3396311415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3402326401",
+        "amenity": "bar",
+        "name": "Tapas Bar Mi Esperanza",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.933786,
+          53.4361615
+        ]
+      },
+      "id": "node/3402326401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3404634572",
+        "amenity": "bar",
+        "name": "Arena Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8898211,
+          53.5750376
+        ]
+      },
+      "id": "node/3404634572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3448986384",
+        "amenity": "bar",
+        "name": "Taifun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9796696,
+          53.5479504
+        ]
+      },
+      "id": "node/3448986384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452161109",
+        "addr:housenumber": "19",
+        "addr:postcode": "20359",
+        "addr:street": "Neuer Pferdemarkt",
+        "amenity": "bar",
+        "description": "viele alte Sofas",
+        "name": "Zoe III",
+        "opening_hours": "Su-Th 20:00-02:00, Fr,Sa 20:00-03:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9646053,
+          53.5586584
+        ]
+      },
+      "id": "node/3452161109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470964773",
+        "amenity": "bar",
+        "name": "Denis Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.011417,
+          53.5540162
+        ]
+      },
+      "id": "node/3470964773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470965942",
+        "amenity": "bar",
+        "name": "Vanessa Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0110777,
+          53.5541412
+        ]
+      },
+      "id": "node/3470965942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470966038",
+        "amenity": "bar",
+        "name": "Dschungel Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0112185,
+          53.5541723
+        ]
+      },
+      "id": "node/3470966038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470968596",
+        "amenity": "bar",
+        "name": "WunderBar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0108698,
+          53.5540879
+        ]
+      },
+      "id": "node/3470968596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470976167",
+        "amenity": "bar",
+        "name": "Windstärke 11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0120752,
+          53.5542031
+        ]
+      },
+      "id": "node/3470976167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3470977308",
+        "amenity": "bar",
+        "name": "Rund um die Uhr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0119523,
+          53.5541653
+        ]
+      },
+      "id": "node/3470977308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3479913211",
+        "amenity": "bar",
+        "name": "Marrakesch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8807686,
+          53.5836041
+        ]
+      },
+      "id": "node/3479913211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3534160884",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "20357",
+        "addr:street": "Vereinsstraße",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Das Lemon",
+        "old_name": "John Lemon",
+        "opening_hours": "Su-Fr 17:00+; Sa 14:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9621675,
+          53.5663192
+        ]
+      },
+      "id": "node/3534160884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3659053848",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "22299",
+        "addr:street": "Alsterdorfer Straße",
+        "amenity": "bar",
+        "brewery": "yes;Heineken;various;Bier_d._Monats;Same_Same_Bier_(bayr._hell)",
+        "email": "info@barsamesame.de",
+        "name": "Bar Same Same",
+        "outdoor_seating": "yes",
+        "phone": "+49 40 59541818",
+        "smoking": "yes",
+        "toilets:wheelchair": "no",
+        "website": "http://www.barsamesame.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99809,
+          53.5957168
+        ]
+      },
+      "id": "node/3659053848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3670795971",
+        "amenity": "bar",
+        "name": "Infinity Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9820267,
+          53.5554741
+        ]
+      },
+      "id": "node/3670795971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3672023954",
+        "amenity": "bar",
+        "name": "Cosy Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9482843,
+          53.5778757
+        ]
+      },
+      "id": "node/3672023954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673531453",
+        "amenity": "bar",
+        "name": "Hamburger Botschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9665626,
+          53.5599895
+        ]
+      },
+      "id": "node/3673531453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3673876622",
+        "addr:housenumber": "6-8",
+        "addr:street": "Rautenbergstraße",
+        "amenity": "bar",
+        "description": "Shisha & Zigarren",
+        "email": "info@barhh.com",
+        "mobile": "+49 163 2102679",
+        "name": "Bar Hamburg",
+        "opening_hours": "Su-Th 16:00-01:00, Fr,Sa 16:00-03:00",
+        "phone": "+494036029393",
+        "smoking": "dedicated",
+        "toilets:wheelchair": "no",
+        "website": "http://www.barhh.com",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0063245,
+          53.5563592
+        ]
+      },
+      "id": "node/3673876622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3737001822",
+        "amenity": "bar",
+        "name": "Elissar",
+        "opening_hours": "Mo-Th 16:00-24:00, Fr,Sa 16:00-05:00, Su 17:00-24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0358323,
+          53.5511984
+        ]
+      },
+      "id": "node/3737001822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3758950380",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "156",
+        "addr:postcode": "21107",
+        "addr:street": "Veringstraße",
+        "amenity": "bar",
+        "name": "Starlight"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9862238,
+          53.5054295
+        ]
+      },
+      "id": "node/3758950380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3768537428",
+        "addr:housenumber": "10",
+        "addr:street": "Budapester Straße",
+        "amenity": "bar",
+        "name": "Domschänke",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9675732,
+          53.5515526
+        ]
+      },
+      "id": "node/3768537428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3769636430",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "22111",
+        "addr:street": "Billstedter Hauptstraße",
+        "amenity": "bar",
+        "name": "To Steki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1017126,
+          53.5397469
+        ]
+      },
+      "id": "node/3769636430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3775015974",
+        "amenity": "bar",
+        "name": "Playoff Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8828877,
+          53.5820557
+        ]
+      },
+      "id": "node/3775015974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3775042457",
+        "addr:housenumber": "79",
+        "addr:street": "Clemens-Schultz-Straße",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "contact:website": "http://www.cabana-stpauli.de/",
+        "name": "Copa Cabana",
+        "opening_hours": "Mo-Sa 11:00+;Su 12:00+",
+        "outdoor_seating": "yes",
+        "shisha": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9626285,
+          53.5525745
+        ]
+      },
+      "id": "node/3775042457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787329491",
+        "addr:housenumber": "66",
+        "addr:street": "Reeperbahn",
+        "alt_name": "Cocktail Club",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "contact:facebook": "https://www.facebook.com/StoryHamburg",
+        "contact:website": "http://www.story-hamburg.de/",
+        "name": "Story"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9629391,
+          53.5498031
+        ]
+      },
+      "id": "node/3787329491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789624490",
+        "amenity": "bar",
+        "contact:website": "https://www.cascadas.club/",
+        "name": "Cascadas",
+        "website": "https://www.cascadas.club/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.000626,
+          53.5546896
+        ]
+      },
+      "id": "node/3789624490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3802077759",
+        "addr:housenumber": "5-7",
+        "addr:street": "Steinstraße",
+        "amenity": "bar",
+        "name": "Central Congress",
+        "website": "http://centralcongress.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0042543,
+          53.5499569
+        ]
+      },
+      "id": "node/3802077759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3806624147",
+        "amenity": "bar",
+        "name": "Empire Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0395848,
+          53.5797746
+        ]
+      },
+      "id": "node/3806624147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3809064287",
+        "amenity": "bar",
+        "name": "Das Karrussell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9517003,
+          53.5721358
+        ]
+      },
+      "id": "node/3809064287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3812511657",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "227",
+        "addr:postcode": "22769",
+        "addr:street": "Max-Brauer-Allee",
+        "amenity": "bar",
+        "name": "Bar 227",
+        "toilets:wheelchair": "no",
+        "website": "http://www.bar227.de/",
+        "wheelchair": "no",
+        "wheelchair:description": "Die Bar ist nur über Stufen erreichbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9552346,
+          53.5615496
+        ]
+      },
+      "id": "node/3812511657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3824522601",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "42",
+        "addr:postcode": "20259",
+        "addr:street": "Bellealliancestraße",
+        "amenity": "bar",
+        "name": "red lounge",
+        "phone": "+49 40 43092463",
+        "website": "http://www.redlounge.eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9606502,
+          53.5680685
+        ]
+      },
+      "id": "node/3824522601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3875195428",
+        "amenity": "bar",
+        "name": "Mosaic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0465537,
+          53.5835384
+        ]
+      },
+      "id": "node/3875195428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3886742071",
+        "addr:housenumber": "4",
+        "addr:street": "Hamburger Berg",
+        "amenity": "bar",
+        "name": "Berg 4",
+        "opening_hours": "Mo-Su 20:00+",
+        "toilets:wheelchair": "no",
+        "website": "www.berg4-bar.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611063,
+          53.5501765
+        ]
+      },
+      "id": "node/3886742071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898984141",
+        "amenity": "bar",
+        "name": "Elbwerk",
+        "website": "http://www.elbwerk-hamburg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9627083,
+          53.546779
+        ]
+      },
+      "id": "node/3898984141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3914036029",
+        "amenity": "bar",
+        "contact:email": "info@zazabar.de",
+        "contact:phone": "+49 40 27880135",
+        "contact:website": "http://www.zazabar.de/",
+        "name": "Zaza Bar",
+        "operator": "Donata Menard",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0125513,
+          53.5805356
+        ]
+      },
+      "id": "node/3914036029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3928787887",
+        "amenity": "bar",
+        "level": "1",
+        "name": "Pier 2 Bar",
+        "smoking": "no",
+        "website": "http://www.hamburg-airport.de/en/pier_2_bar.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0046307,
+          53.6327876
+        ]
+      },
+      "id": "node/3928787887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3982081962",
+        "amenity": "bar",
+        "level": "-1",
+        "name": "Wein Boutique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9901879,
+          53.5536445
+        ]
+      },
+      "id": "node/3982081962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3997637970",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "30",
+        "addr:postcode": "20359",
+        "addr:street": "Hopfenstraße",
+        "amenity": "bar",
+        "name": "Gun Club",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9635983,
+          53.5481356
+        ]
+      },
+      "id": "node/3997637970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4043814616",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "58",
+        "addr:postcode": "20259",
+        "addr:street": "Eppendorfer Weg",
+        "amenity": "bar",
+        "name": "Zuehlke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9597558,
+          53.5724298
+        ]
+      },
+      "id": "node/4043814616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4046576435",
+        "amenity": "bar",
+        "name": "The Boilerman Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9980541,
+          53.5422933
+        ]
+      },
+      "id": "node/4046576435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4082447664",
+        "addr:housenumber": "11",
+        "addr:postcode": "22765",
+        "addr:street": "Kleine Rainstraße",
+        "amenity": "bar",
+        "internet_access": "no",
+        "name": "Mathilde Bar",
+        "opening_hours": "Mo-Sa 17:00+",
+        "smoking": "no",
+        "website": "http://www.mathilde-hh.de/mathilde-bar-ottensen/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9298568,
+          53.5539454
+        ]
+      },
+      "id": "node/4082447664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4103580497",
+        "amenity": "bar",
+        "contact:phone": "+49 160 90361519",
+        "contact:website": "http://www.drei-zimmer-wohnung.de",
+        "name": "3 Zimmer Wohnung",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9602837,
+          53.5506628
+        ]
+      },
+      "id": "node/4103580497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4108544219",
+        "amenity": "bar",
+        "name": "Highway",
+        "opening_hours": "Mo-Th,Su 14:00-02:00; Fr-Sa 14:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0465382,
+          53.5677919
+        ]
+      },
+      "id": "node/4108544219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4131320272",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "20359",
+        "addr:street": "Antonistraße",
+        "amenity": "bar",
+        "name": "Drip Bar",
+        "opening_hours": "Tu-Sa 18:00-03:00; Su 18:00-00:00",
+        "phone": "+49 174 1007658",
+        "website": "www.dripbar.de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9575471,
+          53.5470172
+        ]
+      },
+      "id": "node/4131320272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144383872",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "88",
+        "addr:postcode": "21073",
+        "addr:street": "Wilstorfer Straße",
+        "amenity": "bar",
+        "name": "Phoenix Lounge",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9874029,
+          53.4542689
+        ]
+      },
+      "id": "node/4144383872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144383874",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "90",
+        "addr:postcode": "21073",
+        "addr:street": "Wilstorfer Straße",
+        "amenity": "bar",
+        "name": "Casablanca Tanzbar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9874445,
+          53.4541187
+        ]
+      },
+      "id": "node/4144383874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4226881609",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "22415",
+        "addr:street": "Beim Schäferhof",
+        "amenity": "bar",
+        "name": "Chillim",
+        "opening_hours": "Mo-Su 16:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 40 35770628",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.01368,
+          53.6433401
+        ]
+      },
+      "id": "node/4226881609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228143303",
+        "amenity": "bar",
+        "name": "Anleger Hamburg",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.991283,
+          53.6010996
+        ]
+      },
+      "id": "node/4228143303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241767305",
+        "amenity": "bar",
+        "name": "La Longa",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9629194,
+          53.5480807
+        ]
+      },
+      "id": "node/4241767305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241768702",
+        "amenity": "bar",
+        "name": "Museum Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9615996,
+          53.5469937
+        ]
+      },
+      "id": "node/4241768702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241769889",
+        "amenity": "bar",
+        "name": "Pinoy",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9628533,
+          53.5482432
+        ]
+      },
+      "id": "node/4241769889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247420020",
+        "amenity": "bar",
+        "name": "Pyjama Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9654169,
+          53.5499606
+        ]
+      },
+      "id": "node/4247420020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247428789",
+        "amenity": "bar",
+        "name": "Lounge Hamburg "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9970041,
+          53.5521114
+        ]
+      },
+      "id": "node/4247428789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4329577521",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/contact.hamburg",
+        "contact:phone": "+49-40-55502697",
+        "contact:website": "http://www.contact-bar.de/",
+        "gay": "yes",
+        "name": "Contact Men's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0126537,
+          53.5571566
+        ]
+      },
+      "id": "node/4329577521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4336625190",
+        "amenity": "bar",
+        "name": "Chaplin's Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0100966,
+          53.5538324
+        ]
+      },
+      "id": "node/4336625190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365438978",
+        "amenity": "bar",
+        "name": "Schlemmereck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9614784,
+          53.5505474
+        ]
+      },
+      "id": "node/4365438978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4365438979",
+        "amenity": "bar",
+        "name": "Wilde Hilde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9614629,
+          53.5507207
+        ]
+      },
+      "id": "node/4365438979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377624318",
+        "addr:housenumber": "27",
+        "amenity": "bar",
+        "website": "http://www.clockers.hamburg/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9579458,
+          53.5531107
+        ]
+      },
+      "id": "node/4377624318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4403527285",
+        "amenity": "bar",
+        "name": "das Smolka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9876611,
+          53.5838369
+        ]
+      },
+      "id": "node/4403527285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404057742",
+        "amenity": "bar",
+        "name": "Chez Wilma",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8123409,
+          53.5621165
+        ]
+      },
+      "id": "node/4404057742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415556619",
+        "amenity": "bar",
+        "name": "4Fäuste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9616627,
+          53.56177
+        ]
+      },
+      "id": "node/4415556619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4417829183",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "63",
+        "addr:postcode": "20359",
+        "addr:street": "Hein-Hoyer-Straße",
+        "amenity": "bar",
+        "name": "Alles Elbe",
+        "opening_hours": "Tu-Th 18:00+; Fr-Sa 16:00+; Su 10:00-17:00",
+        "phone": "+49 40 2847 4009",
+        "source": "http://alleselbe.de",
+        "website": "http://alleselbe.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9628227,
+          53.5531214
+        ]
+      },
+      "id": "node/4417829183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4425715443",
+        "amenity": "bar",
+        "name": "Sarsari Lounge",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9977416,
+          53.5962256
+        ]
+      },
+      "id": "node/4425715443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4434647857",
+        "amenity": "bar",
+        "name": "Leobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.98493,
+          53.5713184
+        ]
+      },
+      "id": "node/4434647857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4459275974",
+        "amenity": "bar",
+        "name": "Billards B7",
+        "sport": "billiards",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9843516,
+          53.457022
+        ]
+      },
+      "id": "node/4459275974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4475020289",
+        "addr:housenumber": "10",
+        "addr:postcode": "20354",
+        "addr:street": "Kleine Theaterstraße",
+        "amenity": "bar",
+        "email": "post@metropolis-bar.de",
+        "internet_access": "wlan",
+        "name": "Metropolis KINOBAR",
+        "opening_hours": "Mo-Su 16:30-18:00,21:00-22:30",
+        "phone": "040 450 350 63",
+        "website": "http://www.facebook.com/metropoliskinobar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9887347,
+          53.5563621
+        ]
+      },
+      "id": "node/4475020289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524570831",
+        "amenity": "bar",
+        "name": "Umdenkbar",
+        "website": "http://udb.life-is-now.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0374665,
+          53.5753841
+        ]
+      },
+      "id": "node/4524570831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585731361",
+        "amenity": "bar",
+        "contact:website": "http://www.pickupgaybar.de/",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "Pick Up Gay Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0119628,
+          53.5556455
+        ]
+      },
+      "id": "node/4585731361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4634760092",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.993092,
+          53.5155454
+        ]
+      },
+      "id": "node/4634760092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692631089",
+        "addr:postcode": "20359",
+        "amenity": "bar",
+        "name": "The Mad Hatter",
+        "opening_hours": "Mo-Sa 18:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9596344,
+          53.5486035
+        ]
+      },
+      "id": "node/4692631089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4694198301",
+        "addr:postcode": "20359",
+        "amenity": "bar",
+        "name": "Silbersack Billard-Treff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9595342,
+          53.5485214
+        ]
+      },
+      "id": "node/4694198301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4756648773",
+        "amenity": "bar",
+        "name": "Pakalolo",
+        "opening_hours": "Mo-Sa 19:30-24:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9850414,
+          53.516169
+        ]
+      },
+      "id": "node/4756648773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758528801",
+        "amenity": "bar",
+        "man_made": "surveillance",
+        "name": "Malto",
+        "opening_hours": "Mo-Th 18:00-24:00;Fr-Sa 18:00-02:00",
+        "surveillance": "indoor",
+        "surveillance:type": "camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9429206,
+          53.5554674
+        ]
+      },
+      "id": "node/4758528801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4767729512",
+        "amenity": "bar",
+        "name": "Cafe Kö"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0213541,
+          53.5745976
+        ]
+      },
+      "id": "node/4767729512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4770095822",
+        "amenity": "bar",
+        "name": "Dreizehnter Stock",
+        "name:de": "Dreizehnter Stock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9594571,
+          53.5638635
+        ]
+      },
+      "id": "node/4770095822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4789031721",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "25",
+        "addr:postcode": "21073",
+        "addr:street": "Neue Straße",
+        "amenity": "bar",
+        "name": "Vanity",
+        "phone": "04030083661",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9803767,
+          53.4631604
+        ]
+      },
+      "id": "node/4789031721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794813789",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "46",
+        "addr:postcode": "20359",
+        "addr:street": "Reeperbahn",
+        "addr:suburb": "St. Pauli",
+        "amenity": "bar",
+        "email": "info@herzhamburg.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Herz Hamburg",
+        "phone": "+49 40 84704207",
+        "smoking": "yes",
+        "website": "http://herzhamburg.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9645131,
+          53.549936
+        ]
+      },
+      "id": "node/4794813789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912961213",
+        "amenity": "bar",
+        "name": "max bar",
+        "opening_hours": "Mo-Sa 15:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8444482,
+          53.5545895
+        ]
+      },
+      "id": "node/4912961213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925161110",
+        "amenity": "bar",
+        "name": "the Other Place",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9624902,
+          53.548171
+        ]
+      },
+      "id": "node/4925161110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4984703821",
+        "addr:housenumber": "10",
+        "addr:postcode": "20539",
+        "addr:street": "Veddeler Damm",
+        "amenity": "bar",
+        "name": "Café Zonck",
+        "opening_hours": "Mo-Su 10:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0157274,
+          53.5243106
+        ]
+      },
+      "id": "node/4984703821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5001404521",
+        "amenity": "bar",
+        "name": "cotton club",
+        "name:tr": "cotton club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9821966,
+          53.5504688
+        ]
+      },
+      "id": "node/5001404521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032544523",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "93",
+        "addr:postcode": "20359",
+        "addr:street": "Clemens-Schultz-Straße",
+        "amenity": "bar",
+        "email": "Nachthafen-HH@web.de",
+        "name": "Nachthafen",
+        "name:de": "Nachthafen",
+        "opening_hours": "20:00+",
+        "smoking": "yes",
+        "website": "http://www.nachthafen-hh.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9643516,
+          53.5523781
+        ]
+      },
+      "id": "node/5032544523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048956986",
+        "amenity": "bar",
+        "name": "Tawan Daeng Karaoke Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9631017,
+          53.5480882
+        ]
+      },
+      "id": "node/5048956986"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5048956991",
+        "amenity": "bar",
+        "name": "Maria Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9639087,
+          53.5481358
+        ]
+      },
+      "id": "node/5048956991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056117591",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Cutter's Kajüte",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2071812,
+          53.4908257
+        ]
+      },
+      "id": "node/5056117591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5064249653",
+        "amenity": "bar",
+        "name": "Hookah Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0113308,
+          53.5533968
+        ]
+      },
+      "id": "node/5064249653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167753188",
+        "amenity": "bar",
+        "name": "In Vino Veritas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9046704,
+          53.6073645
+        ]
+      },
+      "id": "node/5167753188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200356121",
+        "addr:postcode": "22767",
+        "amenity": "bar",
+        "name:en": "Olivia Jones Bar",
+        "opening_hours": "Mo-Su 19:00-02:00",
+        "phone": "04042103348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9575667,
+          53.5509487
+        ]
+      },
+      "id": "node/5200356121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5256448727",
+        "amenity": "bar",
+        "name": "Headcrash",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "wheelchair:description": "Konzertsaal im ersten Stock. Wenn man sich hoch tragen lässt, wird man aber rein gelassen ohne „Brandschutz“-Blabla. Toilette oben mit einer Stufe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9615791,
+          53.5507682
+        ]
+      },
+      "id": "node/5256448727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5339256230",
+        "amenity": "bar",
+        "name": "Emi Lounge",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0596517,
+          53.5778406
+        ]
+      },
+      "id": "node/5339256230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5341006390",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "14",
+        "addr:postcode": "20259",
+        "addr:street": "Eimsbütteler Chaussee",
+        "amenity": "bar",
+        "name": "Sportbar",
+        "source": "rocketbeanstv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9584843,
+          53.5662282
+        ]
+      },
+      "id": "node/5341006390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5341006403",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "115",
+        "addr:postcode": "20357",
+        "addr:street": "Schulterblatt",
+        "amenity": "bar",
+        "email": "incihakbilen@hotmail.de",
+        "name": "Rebel Lounge",
+        "opening_hours": "Su-Th 15:00-02:00, Fr,Sa 15:00-04:00",
+        "phone": "+49 40 84709666",
+        "source": "rocketbeanstv",
+        "website": "http://www.rebelllounge.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9593057,
+          53.5644003
+        ]
+      },
+      "id": "node/5341006403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5417987111",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "80",
+        "addr:postcode": "20146",
+        "addr:street": "Grindelallee",
+        "amenity": "bar",
+        "name": "unikat - Shisha Bar",
+        "phone": "040-41623999",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9814816,
+          53.56688
+        ]
+      },
+      "id": "node/5417987111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5431270168",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "24",
+        "addr:postcode": "21107",
+        "addr:street": "Kurdamm",
+        "amenity": "bar",
+        "brewery": "yes;various",
+        "name": "Bunthaus Schankraum",
+        "opening_hours": "Fr 18:00-00:00; Sa, Su 12:00-18:00",
+        "operator": "Bunthaus Brauerei",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9955483,
+          53.495552
+        ]
+      },
+      "id": "node/5431270168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456098002",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "2",
+        "addr:postcode": "22457",
+        "addr:street": "Roman-Zeller-Platz",
+        "amenity": "bar",
+        "name": "Bizim-Sportsbar e.V.",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9096173,
+          53.6472871
+        ]
+      },
+      "id": "node/5456098002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5460118668",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/1910Weinbar/",
+        "description": "Geöffnet: 2 Stunden bis 20 Minuten vor Spielbeginn; 20 Minuten nach Spielende bis: 24 Uhr am Freitag und Samstag, 23:30 Uhr bei Wochentagsspielen; Abweichungen nach oben und unten je nach Andrang möglich",
+        "facebook": "https://www.facebook.com/1910Weinbar/",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "1910 e.V. Weinbar",
+        "operator": "1910 e.V. Museum für den FC St. Pauli",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9689931,
+          53.5545459
+        ]
+      },
+      "id": "node/5460118668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5631256768",
+        "amenity": "bar",
+        "name": "M1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9838099,
+          53.5183367
+        ]
+      },
+      "id": "node/5631256768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5634887692",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "561",
+        "addr:postcode": "22525",
+        "addr:street": "Kieler Straße",
+        "amenity": "bar",
+        "name": "Winner'sPLAY Sportsbar",
+        "opening_hours": "Mo-Su 09:00-00:00",
+        "operator": "www.winnersplay.de",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9165531,
+          53.5990955
+        ]
+      },
+      "id": "node/5634887692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5661885571",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "32c",
+        "addr:postcode": "21109",
+        "addr:street": "Dratelnstraße",
+        "amenity": "bar",
+        "name": "Mam's Bistro & Bar",
+        "opening_hours": "Mo-Su 09:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0014482,
+          53.4986705
+        ]
+      },
+      "id": "node/5661885571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5670645656",
+        "amenity": "bar",
+        "name": "Milano Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1026386,
+          53.541943
+        ]
+      },
+      "id": "node/5670645656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5703584721",
+        "addr:street": "Grabenstraße",
+        "amenity": "bar",
+        "name": "Coltur Schock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9720079,
+          53.5586741
+        ]
+      },
+      "id": "node/5703584721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5731370981",
+        "amenity": "bar",
+        "name": "Elite Eventhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1130466,
+          53.4893639
+        ]
+      },
+      "id": "node/5731370981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5759381282",
+        "amenity": "bar",
+        "name": "Diamant Shisha",
+        "opening_hours": "Su-Th 15:00-24:00; Fr-Sa 15:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0452354,
+          53.567545
+        ]
+      },
+      "id": "node/5759381282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766710097",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "24",
+        "addr:postcode": "20459",
+        "addr:street": "Ditmar-Koel-Straße",
+        "amenity": "bar",
+        "brewery": "various",
+        "email": "info@bairro-bar.de",
+        "fax": "+49 40 180 356 51",
+        "level": "0",
+        "name": "Bairro Bar",
+        "opening_hours": "Mo-Do 12:00-01:00; Fr-Sa 12:00+; So 12:00-24:00",
+        "operator": "Chie-Yul Oh",
+        "phone": "+49 40 180 356 50",
+        "website": "https://www.bairro-bar.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9745319,
+          53.5458933
+        ]
+      },
+      "id": "node/5766710097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807764253",
+        "amenity": "bar",
+        "name": "Sterngarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9547733,
+          53.5615172
+        ]
+      },
+      "id": "node/5807764253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5835037894",
+        "addr:housenumber": "6",
+        "addr:postcode": "20357",
+        "amenity": "bar",
+        "cuisine": "ice_cream;coffee_shop",
+        "name": "Minus Gelato Bar",
+        "opening_hours": "Su-Th 13:00-00:00; Fr-Sa 13:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9752366,
+          53.5576683
+        ]
+      },
+      "id": "node/5835037894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5846976255",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "50",
+        "addr:postcode": "21147",
+        "addr:street": "Rehrstieg",
+        "amenity": "bar",
+        "name": "Max Cafe & Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8747165,
+          53.4794534
+        ]
+      },
+      "id": "node/5846976255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5909357473",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "47",
+        "addr:postcode": "20359",
+        "addr:street": "Wohlwillstraße",
+        "amenity": "bar",
+        "email": "w@thewalrusbar.de",
+        "name": "The Walrus Bar",
+        "opening_hours": "Mo-Su 18:00+",
+        "outdoor_seating": "yes",
+        "smoking": "yes",
+        "website": "http://thewalrusbar.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9625263,
+          53.5555442
+        ]
+      },
+      "id": "node/5909357473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090949459",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "10",
+        "addr:postcode": "20355",
+        "addr:street": "Stadthausbrücke",
+        "amenity": "bar",
+        "name": "Bar Noir",
+        "website": "https://www.tortue.de/de/bars/weinbar-hamburg-cafe-after-work.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9864552,
+          53.5515734
+        ]
+      },
+      "id": "node/6090949459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6090949460",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "10",
+        "addr:postcode": "20355",
+        "addr:street": "Stadthausbrücke",
+        "amenity": "bar",
+        "name": "Bar Bleu",
+        "smoking": "yes",
+        "website": "https://www.tortue.de/de/bars/bar-bleu.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9863132,
+          53.5515743
+        ]
+      },
+      "id": "node/6090949460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6106891386",
+        "addr:housenumber": "41",
+        "addr:postcode": "20357",
+        "amenity": "bar",
+        "name": "the med bar",
+        "opening_hours": "Fr 16:00-03:00; Sa 14:00-03:00; Tu-We 16:00-01:00; Th 16:00-02:00",
+        "phone": "040 43092188",
+        "website": "http://www.instagram.com/themedbarhamburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9702017,
+          53.558204
+        ]
+      },
+      "id": "node/6106891386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6180431085",
+        "amenity": "bar",
+        "name": "Karstadt Champagne Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.99785,
+          53.5513566
+        ]
+      },
+      "id": "node/6180431085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274193363",
+        "addr:city": "Hamburg",
+        "addr:housenumber": "190",
+        "addr:postcode": "22765",
+        "addr:street": "Holstenstraße",
+        "amenity": "bar",
+        "brewery": "yes",
+        "email": "taugenichtshh@gmail.com",
+        "name": "Taugenichts Bar",
+        "opening_hours": "Di-Do: 18-01, Fr-Sa: 18-03",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "website": "https://taugenichts-bar.business.site",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9479252,
+          53.5604525
+        ]
+      },
+      "id": "node/6274193363"
+    }
+  ]
+}
