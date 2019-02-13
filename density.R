@@ -55,7 +55,9 @@ restaurants <- read_sf("./Hamburgrestaurants.geojson")
 water <- read_sf("./Water.geojson")
 dulsberg <- read_sf("./Dulsberg.geojson")
 other <- read_sf("./AL4.geojson")
+limits <- read_sf("./Limits.geojson")
 
+limits <- st_transform(limits, crs = 2154)
 viertel <- st_transform(viertel, crs = 2154)
 restaurants <- st_transform(restaurants, crs = 2154)
 water <- st_transform(water, crs = 2154)
@@ -63,23 +65,28 @@ dulsberg <- st_transform(dulsberg, crs = 2154)
 other <- st_transform(other, crs = 2154)
 
 other <- crop_shape(other, viertel)
+viertel <- crop_shape(viertel, limits)
 
 rest_density <- smooth_map(restaurants, 
-                           bandwidth = 0.45, 
-                           nlevels = 20,
+                           bandwidth = 0.3, 
+                           nlevels = 30,
                            unit = "km")
+viertel$name
 
-pdf(file = "./map.pdf", width = 20, height = 20)
+
+pdf(file = "./map.pdf", width = 20, height = 14)
 tm_shape(viertel) +
-    tm_borders() +
+    tm_borders(alpha = 1) +
+    tm_text("name", col = "black") +
     tm_shape(other) +
-    tm_fill(col = "chartreuse1") +
+    tm_fill(col = "black") +
     tm_shape(dulsberg) +
-    tm_fill(col = "red", alpha = 0.9) +
+    tm_fill(col = "red", alpha = 0.5) +
     tm_shape(rest_density$polygons) +
-    tm_fill(col = "level", title = "Restaurants", alpha = 0.8) +
+    tm_fill(col = "level", alpha = 0.55) +
     tm_shape(water) +
-    tm_fill(col = "lightblue", alpha = 0.7) +
+    tm_borders(col = "grey85", alpha = 1) +
+    tm_fill(col = "lightblue", alpha = 0.6) +
     tm_style("white", 
              title = "Restaurants in Hamburg") +
     tm_layout(frame = FALSE, 
