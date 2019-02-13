@@ -56,6 +56,7 @@ water <- read_sf("./Water.geojson")
 dulsberg <- read_sf("./Dulsberg.geojson")
 other <- read_sf("./AL4.geojson")
 limits <- read_sf("./Limits.geojson")
+parks <- read_sf("./Parks.geojson")
 
 limits <- st_transform(limits, crs = 2154)
 viertel <- st_transform(viertel, crs = 2154)
@@ -63,39 +64,42 @@ restaurants <- st_transform(restaurants, crs = 2154)
 water <- st_transform(water, crs = 2154)
 dulsberg <- st_transform(dulsberg, crs = 2154)
 other <- st_transform(other, crs = 2154)
+parks <- st_transform(parks, crs = 2154)
 
 other <- crop_shape(other, viertel)
 viertel <- crop_shape(viertel, limits)
+parks <- crop_shape(parks, limits)
 
 rest_density <- smooth_map(restaurants, 
                            bandwidth = 0.3, 
                            nlevels = 30,
                            unit = "km")
-viertel$name
 
-
-pdf(file = "./map.pdf", width = 20, height = 14)
+pdf(file = "./map.pdf", width = 40, height = 28)
 tm_shape(viertel) +
     tm_borders(alpha = 1) +
-    tm_text("name", col = "black") +
+    tm_text("name", col = "black", size = 2.4) +
+    tm_shape(parks) +
+    tm_borders(col = "grey85") +
+    tm_fill(col = "chartreuse3", alpha = 0.3) +
     tm_shape(other) +
     tm_fill(col = "black") +
     tm_shape(dulsberg) +
-    tm_fill(col = "red", alpha = 0.5) +
+    tm_fill(col = "grey", alpha = 0.3) +
     tm_shape(rest_density$polygons) +
-    tm_fill(col = "level", alpha = 0.55) +
+    tm_fill(palette = "YlOrRd", col = "level", alpha = 0.55) +
     tm_shape(water) +
     tm_borders(col = "grey85", alpha = 1) +
-    tm_fill(col = "lightblue", alpha = 0.6) +
+    tm_fill(col = "lightblue", alpha = 0.5) +
     tm_style("white", 
              title = "Restaurants in Hamburg") +
     tm_layout(frame = FALSE, 
               legend.show = FALSE, 
-              title.size = 4,
+              title.size = 8,
               inner.margins = c(0,0),
               title.position = c("left", "top"),
               fontfamily = "mono") +
     tm_credits("Source: OpenStreetMap. Geometry: Wambacher OSM Boundaries. Computed by J. Beley.",
                position = c("left", "bottom"),
-               size = 1.5) 
+               size = 3) 
 dev.off()
