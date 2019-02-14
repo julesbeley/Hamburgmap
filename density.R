@@ -45,7 +45,7 @@ library(tmaptools)
 #>;
 #out skel qt;
 
-# Wambacher curl code?
+# curl -f -o hamburg.zip --url "https://wambachers-osm.website/boundaries/exportBoundaries?cliVersion=1.0&cliKey=6f4b0380-1ef1-4cdf-ae75-0ce88e32e15a&exportAreas=land&from_AL=10&to_AL=10&exportFormat=json&union=false&selected=62782"
 
 rm(list = ls())
 viertel <- read_sf("./Hamburg_AL10.geojson")
