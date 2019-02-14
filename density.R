@@ -74,24 +74,33 @@ rest_density <- smooth_map(restaurants,
                            nlevels = 30,
                            unit = "km")
 
+library(shinyjs)
+palette_explorer()
+library(RColorBrewer)
+
+pal <- brewer.pal(9, "YlOrBr")
+pal[1] <- "#FFFFFF"
+
 pdf(file = "./map.pdf", width = 40, height = 28)
 tm_shape(viertel) +
-    tm_borders(col = "grey10") +
+    tm_borders(col = "grey20") +
     tm_text("name", col = "black", size = 2.4) +
     tm_shape(parks) +
     tm_borders(col = "grey85") +
-    tm_fill(col = "chartreuse3", alpha = 0.3) +
+    tm_fill(col = "chartreuse3", alpha = 0.4) +
     tm_shape(other) +
     tm_fill(col = "black") +
     tm_shape(dulsberg) +
-    tm_fill(col = "grey", alpha = 0.3) +
+    tm_fill(col = "grey", alpha = 0.4) +
     tm_shape(rest_density$polygons) +
-    tm_fill(palette = "YlOrRd", col = "level", alpha = 0.55) +
+    tm_fill(palette = pal, 
+            col = "level", 
+            alpha = 0.6) +
     tm_shape(water) +
     tm_borders(col = "grey85", alpha = 0.8) +
     tm_fill(col = "lightblue", alpha = 0.4) +
     tm_shape(roads) + 
-    tm_sf(col = "red", alpha = 0.2, lty = 5, lwd = 1.2) +
+    tm_sf(col = "red", alpha = 0.3, lty = 5, lwd = 1.2) +
     tm_style("white", 
              title = "Restaurants in Hamburg") +
     tm_layout(frame = FALSE, 
