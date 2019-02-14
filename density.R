@@ -27,6 +27,20 @@ library(tmaptools)
 # >;
 # out skel qt;
 
+# [out:json][timeout:25];
+# {{geocodeArea:Hamburg}}->.searchArea;
+# (
+#    node["highway"="primary"](area.searchArea);
+#    way["highway"="primary"](area.searchArea);
+#    relation["highway"="primary"](area.searchArea);
+#    node["highway"="secondary"](area.searchArea);
+#    way["highway"="secondary"](area.searchArea);
+#    relation["highway"="secondary"](area.searchArea);
+# );
+# out body;
+# >;
+# out skel qt;
+
 # curl -f -o hamburg.zip --url "https://wambachers-osm.website/boundaries/exportBoundaries?cliVersion=1.0&cliKey=6f4b0380-1ef1-4cdf-ae75-0ce88e32e15a&exportAreas=land&from_AL=10&to_AL=10&exportFormat=json&union=false&selected=62782"
 
 rm(list = ls())
