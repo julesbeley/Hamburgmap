@@ -74,20 +74,18 @@ rest_density <- smooth_map(restaurants,
                            nlevels = 30,
                            unit = "km")
 
-library(shinyjs)
-palette_explorer()
 library(RColorBrewer)
 
 pal <- brewer.pal(9, "YlOrBr")
 pal[1] <- "#FFFFFF"
 
-pdf(file = "./map.pdf", width = 40, height = 28)
+pdf(file = "./map.pdf", width = 80, height = 56)
 tm_shape(viertel) +
     tm_borders(col = "grey20") +
-    tm_text("name", col = "black", size = 2.4) +
+    tm_text("name", col = "black", size = 4.8) +
     tm_shape(parks) +
     tm_borders(col = "grey85") +
-    tm_fill(col = "chartreuse3", alpha = 0.4) +
+    tm_fill(col = "chartreuse3", alpha = 0.6) +
     tm_shape(other) +
     tm_fill(col = "black") +
     tm_shape(dulsberg) +
@@ -98,18 +96,18 @@ tm_shape(viertel) +
             alpha = 0.6) +
     tm_shape(water) +
     tm_borders(col = "grey85", alpha = 0.8) +
-    tm_fill(col = "lightblue", alpha = 0.4) +
+    tm_fill(col = "lightblue", alpha = 0.45) +
     tm_shape(roads) + 
     tm_sf(col = "red", alpha = 0.3, lty = 5, lwd = 1.2) +
     tm_style("white", 
              title = "Restaurants in Hamburg") +
     tm_layout(frame = FALSE, 
               legend.show = FALSE, 
-              title.size = 8,
+              title.size = 16,
               inner.margins = c(0,0),
               title.position = c("left", "top"),
               fontfamily = "mono") +
     tm_credits("Source: OpenStreetMap. Geometry: Wambacher OSM Boundaries. Computed by J. Beley.",
                position = c("left", "bottom"),
-               size = 3) 
+               size = 6) 
 dev.off()
