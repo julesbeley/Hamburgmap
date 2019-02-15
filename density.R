@@ -77,7 +77,10 @@ rest_density <- smooth_map(restaurants,
 library(RColorBrewer)
 
 pal <- brewer.pal(9, "YlOrBr")
+pal
 pal[1] <- "#FFFFFF"
+
+# https://gka.github.io/palettes/
 
 pdf(file = "./map.pdf", width = 80, height = 56)
 tm_shape(viertel) +
