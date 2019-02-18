@@ -1,5 +1,5 @@
 #https://cimentadaj.github.io/blog/2018-05-25-installing-rjava-on-windows-10/installing-rjava-on-windows-10/
-Sys.setenv(JAVA_HOME="C:/Program Files/Java/jdk-11.0.2/") #(JAVA_HOME PROBLEM)
+Sys.setenv(JAVA_HOME = "C:/Program Files/Java/jdk-11.0.2/") #(JAVA_HOME PROBLEM)
 library(rJava)
 library(sf)
 library(OpenStreetMap) 
@@ -77,7 +77,6 @@ rest_density <- smooth_map(restaurants,
 library(RColorBrewer)
 
 pal <- brewer.pal(9, "YlOrBr")
-pal
 pal[1] <- "#FFFFFF"
 
 # https://gka.github.io/palettes/
